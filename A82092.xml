@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from the severall respective regiments in the Army to all free-born Commons within the realme of England. Wherein is set forth, the grounds and reasons of their present designe and engagement; together with their candid intentions, and reall resolutions therein, both towards King, Parliament, and Kingdome. As also, their message to the free-born people of this nation, concerning their present proceedings, with their most humble desires touching the same. Appointed to be printed and published, and sent to every respective county within the realme of England; by the agents of the aforesaid regimenss [sic], whose names are hereunto annexed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82092</idno>
+            <idno type="STC">Wing D597</idno>
+            <idno type="STC">Thomason E412_29</idno>
+            <idno type="STC">ESTC R204474</idno>
+            <idno type="EEBO-CITATION">99863964</idno>
+            <idno type="PROQUEST">99863964</idno>
+            <idno type="VID">161260</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161260)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from the severall respective regiments in the Army to all free-born Commons within the realme of England. Wherein is set forth, the grounds and reasons of their present designe and engagement; together with their candid intentions, and reall resolutions therein, both towards King, Parliament, and Kingdome. As also, their message to the free-born people of this nation, concerning their present proceedings, with their most humble desires touching the same. Appointed to be printed and published, and sent to every respective county within the realme of England; by the agents of the aforesaid regimenss [sic], whose names are hereunto annexed.</title>
+                  <author>Bear, Edmond.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.E.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>November 5. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Edmond Bear [and 9 others].</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Civil rights --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161260:1" rendition="simple:additions"/>
+            <p>A DECLARATION FROM The ſeverall Reſpective Regiments in the Army, to all Free-born Commons within the Realme of ENGLAND.</p>
+            <p>Wherein is ſet forth, The Grounds and Reaſons of their preſent Deſigne and Engagement; Together with their candid intentions, and reall reſolutions therein, both towards King, Parliament, and Kingdome.</p>
+            <p>AS ALSO, Their Meſſage to the Free-born People of this Nation, concerning their preſent proceedings, with their moſt humble deſires touching the ſame.</p>
+            <p>
+               <hi>APpointed to be printed and publiſhed, and ſent to eve<g ref="char:EOLhyphen"/>ry reſpective County within the Realme of England; By the Agents of the aforeſaid Regimenss, whoſe names are hereunto annexed.</hi>
+            </p>
+            <p>London, Printed for <hi>H. E.</hi> November 5. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:161260:2"/>
+            <pb facs="tcp:161260:2"/>
+            <head>A Declaration from the Army, concerning a preſent ſettlement of the peace of the Kingdome.</head>
+            <p>HAving by our late lobours and hazards made it appear to the world at how high a rate we value our juſt freedom, &amp; God having ſo far owned our cauſe, as to deliver the Enemies thereof into our hands: We do now hold our ſelves bound in mutuall duty to each other, to take the beſt care we can for the future, to avuid both the danger of returning into a ſlaviſh con<g ref="char:EOLhyphen"/>dition, and the chargeable remedy of another war: for as it can<g ref="char:EOLhyphen"/>not be imagined that ſo many of our Country-men would have oppoſed us in this quarrel, if they had underſtood their owne good, ſo may we ſafely promiſe to our ſelves, that when our Com<g ref="char:EOLhyphen"/>mon Rights and liberties ſhall be declared, their endeavours will be diſappointed, that ſeek to make themſelves our Maſters ſince therefore our former oppreſſions, and ſcarce yet ended troubles have been occaſi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d either by want of frequent Nationall mee<g ref="char:EOLhyphen"/>ting <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Councell, or by rendring thoſe meetings ineffectuall: We are <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bly agreed and reſolved, to provide that hereafter our Re<g ref="char:EOLhyphen"/>preſentativ be neither le<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to an uncertainty for the time, nor made uſeleſſe to the ends for which they are intended: In order whereunto we declare,</p>
+            <p n="1">1. That the people of England being al this day very unequal<g ref="char:EOLhyphen"/>ly diſtributed by Counties, Cities, and Burrouges for the electi<g ref="char:EOLhyphen"/>on of their Deputies in Parliament<g ref="char:punc">▪</g> ougot to be more indiffe<g ref="char:EOLhyphen"/>rently proportioned, according to the number of the Inhabitant<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the circumſtances whereof, for number, place, and manner, are to be ſet down before the end of this preſent Parliament.</p>
+            <p n="2">2. That to prevent the many inconveniences apparently ari<g ref="char:EOLhyphen"/>ſing, from the lo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g continuance of the ſame perſons in authori<g ref="char:EOLhyphen"/>ty, this preſent Parliament be diſſolved upon the laſt day of Sep<g ref="char:EOLhyphen"/>tember, which ſhall be in the year of our Lord, 1648.</p>
+            <p n="3">3. That the People do of courſe chuſe themſelves a Parliament once in two yeares, viz. upon the firſt Thurſday in every 2d. March, after the manner as ſhall be preſcribed before the end of this Parliament, to begin to ſit upon the firſt Tourſday in Aprill following at Weſtminſter, or ſuch other place as ſhall be ap<g ref="char:EOLhyphen"/>pointed
+<pb facs="tcp:161260:3"/> from time to time by the preceding Repreſen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atives; &amp; to continue till the laſt of <hi>September,</hi> then n xt enſuing, rnd no longer.</p>
+            <p n="4">4. That the power of this, and all future Repreſentatives of this Nation, is inferiour only to theirs who chuſe them, and doth extend, withoht the conſent or concurrence of any other perſon or perſons; to the enacting a tering, and repealing of Lawes, to the erecting and aboliſhing of Offices and Courts, to the ap<g ref="char:EOLhyphen"/>pointing, removing, and calling to account Magiſtrates, and Of<g ref="char:EOLhyphen"/>ficers, of all degrees; to the making War and peace, to the trea<g ref="char:EOLhyphen"/>ting with forreigne States: And generally, to whatſoever is not expreſly, or implyedly reſerved by the repreſented to themſelves.</p>
+            <p>
+               <label>Which are as followeth;</label>
+            </p>
+            <p n="1">1. THat matters of Religion, and the wayes of Gods Wor, ſhip, are not at all intruſted by us to any humane power-becauſe therein we cannot remit or exceed a tittle of what our Conſciences dictate to be the mind of God, without wilfull ſin: nevertheleſſe the publike way of inſtructing the Nation (ſo it be not compulſive) is referred to their di<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cretion.</p>
+            <p n="2">2. That the matter of impre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting and conſtraining any of us to ſerve in the wars, is againſt our freedome; and therefore we do not allow it in our Repreſentatives; the rather, becauſe money (the ſinews of war) being alwayes at their diſpoſall, they can ne<g ref="char:EOLhyphen"/>ver want numbers of men apt enough to engage in any juſt cauſe.</p>
+            <p n="3">3. That after the diſſolution of preſent Parliament, no perſon be at any time queſtioned f r any thing ſaid or done, in refe<g ref="char:EOLhyphen"/>rence to the late publike differences, otherwiſe then in execution of the Judgements of the preſent Repreſentatives, or Houſe of Commons.</p>
+            <p n="4">4. That in all Lawes made, or to be made, every perſon may be bound alike, and that no Tenure, Eſtate, Charter Degree, Birth, or place, do confer any exemption from the ordinary Courſe of Legall proceedings, whereunto others are ſubjected.</p>
+            <p>THeſe things we declare to be our native Rights, and there<g ref="char:EOLhyphen"/>fore are agreed and reſolved to maintain t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em with our ut<g ref="char:EOLhyphen"/>moſt poſſibillities, againſt all oppoſition whatſoever, being com<g ref="char:EOLhyphen"/>pelled
+<pb facs="tcp:161260:3"/> thereunto not only by the examples of our Anceſtors, whoſe bloud was often ſpent in vain for the recovery of their Freedomes, ſuffering themſelves, through fraudulent Accommo<g ref="char:EOLhyphen"/>dations<g ref="char:punc">▪</g> to be ſtill d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>luded of the fruit of their Victories, but alſo by our own wofull experience, who having long expected, and dearly earned the eſtabliſhment of theſe certain rules of Go<g ref="char:EOLhyphen"/>vernment are yet made to depend for the ſettlement of our Peace and freedome, upon him that intended our bondage, and crought a cruell Warre upon us.</p>
+            <div type="letter">
+               <head>For the noble and highly honoured the Free-born People of <hi>England,</hi> in their reſpective Counties and Diviſions, theſe.</head>
+               <opener>
+                  <salute>Dear Country-men, and fellow-Commoners,</salute>
+               </opener>
+               <p>FOr your ſakes, our friends, eſtates &amp; lives, have not been dear to us; for your ſafety and freedome we have cheerfully indu<g ref="char:EOLhyphen"/>red hard Labours and run moſt deſperate hazards, and in com<g ref="char:EOLhyphen"/>parison to your peace and freedome we neither do nor ever ſhall value our deareſt bloud and we profeſſe, our bowels are and have been troubled and our hearts pained within us, in ſeeing &amp; conſidering that you have been ſo long bereaved of theſe fruits &amp; ends of all our labours and hazards, we cannot but ſympathize with you in your miſeries and oppreſſions. It's grief and vexation of heart to us to receive your meat or moneyes, whileſt you have no advantage nor yet the fouddations of your peace &amp; free<g ref="char:EOLhyphen"/>dome ſurely layed: &amp; therefore upon moſt ſerious conſiderations that your principall right moſt eſſentiall to your wel-being is the clearneſſe certa nty ſuffic<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ency &amp; freed<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m of your power in your repreſentative in Parliament and conſidering that the originall of moſt of your oppreſsions and miſeries hath been either from the ob<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tfulneſſe of the power you have commit<g ref="char:EOLhyphen"/>ted to your repreſentatives in your elections, or from the want of c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>age in thoſe whom you have betruſted to claime and exerci<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e their power, which might propably proceed from their uncertainty of your aſſiſtance and maintenance of their power, and minding that for this right of yours and ours we en<g ref="char:EOLhyphen"/>gaged our lives, for the King ra<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed the war againſt you and your Parliament, upon this ground, that he would not ſuffer your repreſentatives to provide for your peace, ſafety and freedome
+<pb facs="tcp:161260:4"/> that were then in danger, by diſpoſing of the <hi>Militia</hi> and other<g ref="char:EOLhyphen"/>wiſe, according to their truſt; and for the maintenance &amp; defenſe of that power and right of yours, we hazarded all that was dear to us, &amp; God hath born witneſſe to the juſtice of our Cauſe. And further minding that the only effectuall means to ſettle a juſt &amp; laſting peace, to obtain remedy for all your grievances, and to prevent future oppreſſions, is the making clear &amp; ſecure the pow<g ref="char:EOLhyphen"/>er that you betruſt to your repreſentatives in Parliament, that they may know their truſt in the faithfull execution whereof you will aſſiſt them. Vpon all theſe grounds, we propound your joy<g ref="char:EOLhyphen"/>ning with us in the agreement herewith ſent vnto you; that by vertue thereof, we may have Parliaments certainly cal'd, &amp; have the time of their ſitting and ending certain, and their power or truſt clear and unqueſtionable, that hereafter they may remove your burdens, and ſecure your rights without oppoſitions or in<g ref="char:EOLhyphen"/>ſtructions, and that the foundations of your peace may be ſo free from uncertainty, that there may be no grounds for future quar<g ref="char:EOLhyphen"/>rels, or contentions to occaſion war and bloud-ſhed; &amp; we deſire you would conſider, that as theſe things wherein we offer to a<g ref="char:EOLhyphen"/>gree with you are the fruits and ends of the Victories which God hath given us; ſo the ſettlement of theſe are the moſt abſolute means to preſerve you and your poſterity, from ſlavery, oppreſſi<g ref="char:EOLhyphen"/>on, diſtraction, and trouble; by this, thoſe whom your ſelves ſhall chuſe, ſhall have power to reſtore you to, and ſecure you in all your rights, &amp; they ſhall be in a capacity to taſt of ſubjection, as well as rule, and ſo ſhall be equally concerned with your ſelves, in all they do. For they muſt equally ſuffer with you under any common burdens and partake with you in any freedomes; and by this they ſhall be diſ-inabled to defraud or wrong you, when the lawes ſhall bind all alike, without priviledge or exemption; and by this your conſciences ſhall be free from tyranny and oppreſſi<g ref="char:EOLhyphen"/>on, and thoſe occaſions of endleſſe ſtrifes, and bloudy wars, ſhall be in this Agreement, all your particular and common grievan<g ref="char:EOLhyphen"/>ces will be redreſſed forthwith without delay; the Parliament muſt then make your reliefe and common good their only ſtudy.</p>
+               <p>Now becauſe we are earneſtly deſirous of the peace and good of all our Country-men, even of thoſe that have oppoſed us, and would to our utmoſt poſſibility provide for perfect peace and
+<pb facs="tcp:161260:4"/> freedome, and prevent all ſnites, debates, and contentions that may happen amongſt you, in relation to the late war: we have therefore inſerted it into this Agreement, that no perſon ſhall be queſtionable for any thing done, in relation to the late publike differences, after the diſſolution of this preſent Parliament, fur<g ref="char:EOLhyphen"/>ther then in execution of their judgment; that thereby all may be ſecure from all ſufferings <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or what they have done, and not liable hereafter to be troubled or puniſhed by the judgmene of another Parliament, which may be to t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ir ruine, unleſſe this Agreement be joyned in, whereby any acts of indemp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ito or oblivion ſhall be made unalterable, and you and your poſterities be ſecure.</p>
+               <p>
+                  <hi>But if any ſhall inquire why we ſhould deſire to joyn in an Agreement with the People, to declare theſe to be our native Rights, and not ra<g ref="char:EOLhyphen"/>ther petition to the Parliament for them; the reaſon is <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vident: No Act of Parliament is or can he unalterable, and ſo cannot be ſufficient ſe<g ref="char:EOLhyphen"/>curity to ſave pou or us harmleſſe, from what another Parliament may determine of it ſhould be corrupted; and beſides Parliaments are to receive the extent of their power, and truſt from thoſe that betruſt them; and therefore the people are to declare what their power &amp; truſt is, whic is the intent of this Agreement; and its to be obſervd, that though there hath formerly been many Acts of Parliament, for the calling of Parliaments every yeare yet you have been deprived of them and inſlaved through want of them; and therefore both neceſſity for your ſecurity in theſe freedomes, that are aſſentiall to your well-being and wofull experience of the maenifold miſeries and distractions that have been lengthened out, ſince the wars ended, through want of ſuch a ſettlement, tequires this Agreement, and when you and we ſhall be joyned together therein, we ſhall readily joyn with you, to petition the Parliament, as they are our fellow-Commoners equally concern'd, to joyn with us.</hi>
+               </p>
+               <p>
+                  <hi>And if any ſhall inquire, why we undertake to offer this Agreement we muſt profeſſe, we are ſenſible that you have been ſo often deceived with Declarations and Remonſtrances, and fed with vain hopes that you have fufficient reaſon to abandon <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll confidence in any perſons whatſoever, from whom you have no other ſecurity of their intending your freedome, then bare Declarations.</hi>
+               </p>
+               <p>And therefore, as our conſciences witneſſe, that in ſimplicity and integrity of heart, we have propoſed lately in the Caſe of the
+<pb facs="tcp:161260:5"/> Army ſtated, your freedome and deliverance from ſlavery, op<g ref="char:EOLhyphen"/>preſſion, and all burdens: ſo we deſire to give you ſatisfying aſ<g ref="char:EOLhyphen"/>ſurance thereof by this Agreement whereby the foundations of your freedomes provided in the Caſe, &amp;c. ſhall be ſetled unalte<g ref="char:EOLhyphen"/>rably, and we ſhall as faithfully proceed to, and all other moſt vigorous actings for your good that God ſhall direct and enable us unto; And though the malice of our enemies, and ſuch as they delude, would blaſt us by ſcandals, aſperſing us with the deſigns of Anarchy, and community; yet we hope the righteous God will not only by this our deſire of ſetling an equall juſt Govern<g ref="char:EOLhyphen"/>ment, but alſo by directing us unto all righteous undertakings, ſimply for publike good; make our uprightneſſe and faithfulneſſe to the intereſt of all our Country-men, ſhine forth ſo clearly that malice it ſelf ſhall be ſilenced, and confounded. We queſtion not, but the longing expectation of a firme peace, will incite you to the moſt ſpeedy joyning in this Agreement: in the proſecution whereof, or of any thing that you ſhall deſire for publike good; you may be confident, you ſhall never want the aſſiſtance of</p>
+               <closer>
+                  <signed>Your moſt faithfull fellow-Commoners, now in Armes for your ſervice.
+<list>
+                        <item>Lieut. Gen. Regiment.
+<list>
+                              <item>Edmond Bear</item>
+                              <item>Robert Everard</item>
+                           </list>
+                        </item>
+                        <item>Com. Gen. Regiment.
+<list>
+                              <item>George Garret</item>
+                              <item>Thomas Beverley</item>
+                           </list>
+                        </item>
+                        <item>Col. Fleetwoods Regimnet.
+<list>
+                              <item>William Pryor</item>
+                              <item>William Bryan</item>
+                           </list>
+                        </item>
+                        <item>Col. Whalies Regiment.
+<list>
+                              <item>Matthew Weale</item>
+                              <item>William Ruſſell</item>
+                           </list>
+                        </item>
+                        <item>Col. Riches Regiment.
+<list>
+                              <item>John Dover</item>
+                              <item>William Hudſon. Col. Riches Regiment.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <closer/>
+            <postscript>
+               <p>This Declaration is aſſented to, and agreed upon by the ſeve<g ref="char:EOLhyphen"/>rall Reſpective Regiments in the Army.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
